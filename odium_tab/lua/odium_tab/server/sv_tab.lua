@@ -1,0 +1,1 @@
+print("Server part loaded")

@@ -1,0 +1,1 @@
+print('cl_menustart.lua loaded')
