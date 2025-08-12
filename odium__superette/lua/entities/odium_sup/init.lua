@@ -1,0 +1,15 @@
+util.AddNetworkString("ODium::FrameSup")
+AddCSLuaFile("cl_init.lua")
+AddCSLuaFile("shared.lua")
+include("shared.lua")
+
+function ENT:Initialize()
+	self:SetModel("models/player/gman_high.mdl")
+	self:SetHullType(HULL_HUMAN)
+	self:SetHullSizeNormal()
+	self:SetNPCState(NPC_STATE_SCRIPT)
+	self:SetSolid(SOLID_BBOX)
+	self:SetUseType(SIMPLE_USE)
+	self:DropToFloor()
+	self:SetSequence(self:LookupSequence("cower"))
+end
