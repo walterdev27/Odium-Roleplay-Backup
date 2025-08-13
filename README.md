@@ -7,6 +7,7 @@ Mais l'aventure Odium n'est pas finie, donc n'hésitez pas à venir sur le nouve
 Je vous dis a très bientôt sur Odium Rôleplay V2. 😉
 
 Merci a Nino et Karim pour toutes ces années.
+
 Cordialement L'Équipe d'Odium (Karim, Nino, Walter).
 
 - Mon discord: walter_27
